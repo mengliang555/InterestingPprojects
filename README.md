@@ -10,4 +10,4 @@
 - [分布式系统模式](https://github.com/dreamhead/patterns-of-distributed-systems) 分布式系统模式
 - [Rust Learning Book](https://github.com/rust-lang/book) Rust Learning Book
 - [比特币](https://github.com/bitcoinbook/bitcoinbook) bitcoinbook
-- 
+- [Flutter 开源组件](https://github.com/ionicfirebaseapp/getwidget) Flutter 组件
